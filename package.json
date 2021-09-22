@@ -1,0 +1,25 @@
+{
+  "name": "jsExercise_browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercisecodes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"watchify ./index.js -o bundle.js\" \"python -m http.server\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guz3z/jsExercise_browser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guz3z/jsExercise_browser/issues"
+  },
+  "homepage": "https://github.com/guz3z/jsExercise_browser#readme",
+  "devDependencies": {
+    "concurrently": "^6.2.1",
+    "watchify": "^4.0.0"
+  }
+}
