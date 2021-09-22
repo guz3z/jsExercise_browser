@@ -162,5 +162,12 @@ h2 {
     color: darkblue;
     font-size: 30px;
     text-align: center;
-    margin: 100px 0;
+    margin: 100px 0 20px 0;
+}
+
+p{
+    text-align: center;
+    font-color: black;
+    font-size: 25px;
+    margin: 0px 0;
 }
