@@ -157,3 +157,10 @@ button:hover {
     display: inline-block;
     background: black;
 }
+
+h2 {
+    color: darkblue;
+    font-size: 30px;
+    text-align: center;
+    margin: 100px 0;
+}
